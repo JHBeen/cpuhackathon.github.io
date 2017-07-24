@@ -1,0 +1,46 @@
+﻿//Common
+var MSG_C_001 = 'Please contact the administrator';
+var MSG_C_002 = 'The password must contain at least 8 characters, including alphabetic, numeric or special characters, and more than four same characters are not allowed.';
+var MSG_C_003 = 'Please enter your password.';
+var MSG_C_004 = 'Email format is incorrect.';
+var MSG_C_005 = 'Please enter your email address.';
+var MSG_C_006 = 'Duplicate email address.';
+var MSG_C_007 = 'Email duplication check is required.';
+var MSG_C_008 = 'Email is available.';
+var MSG_C_009 = 'Invalid password.';
+var MSG_C_010 = 'Passwords do not match.';
+var MSG_C_011 = 'Password has been changed.';
+var MSG_C_012 = 'Your ID has been emailed.';
+var MSG_C_013 = 'A temporary password has been emailed to your registered email address.';
+var MSG_C_014 = 'You must agree to the mandatory terms for sign up';
+var MSG_C_015 = 'Please enter your ID.';
+var MSG_C_016 = 'Duplicate ID.';
+var MSG_C_017 = 'ID is available.';
+var MSG_C_018 = 'Please enter your name.';
+var MSG_C_019 = 'Please enter your date of birth.';
+var MSG_C_020 = 'Please enter your phone number.';
+var MSG_C_021 = 'Phone number format is incorrect.';
+var MSG_C_022 = 'Please enter confirm password.';
+var MSG_C_023 = 'Please select your startup group.';
+var MSG_C_024 = 'Please enter your team name.';
+var MSG_C_025 = 'Please enter your department.';
+var MSG_C_026 = 'ID redundancy check is required.';
+var MSG_C_027 = 'Withdrawal has been completed.';
+var MSG_C_028 = 'It is changed.';
+var MSG_C_029 = 'Please agree to the collection and use of Personal Information.';
+var MSG_C_030 = 'It is deleted.';
+var MSG_C_031 = 'Are you sure you want to withdraw?';
+var MSG_C_032 = 'Are you sure you want to delete?';
+//Apply Msg
+var MSG_A_001 = 'Not the application period.';
+var MSG_A_002 = 'Please enter the introduction of the business.';
+var MSG_A_003 = 'Your application is complete.';
+var MSG_A_004 = 'Please enter 200 characters or fewer.';
+var MSG_A_005 = 'It is changed.';
+var MSG_A_006 = 'After summit, you couldn`t edit your application.Would you like to submit your application?';
+var MSG_A_007 = 'Your application is saved.';
+var MSG_A_008 = 'Please enter in numeric format at least 1.';
+//QnA
+var MSG_Q_001 = 'Requested your inquiry.';
+var MSG_Q_002 = 'Please enter the subject.';
+var MSG_Q_003 = 'Please enter your inquiry.';

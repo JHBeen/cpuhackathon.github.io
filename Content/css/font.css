@@ -1,0 +1,107 @@
+@charset "utf-8";
+
+/*
+* 100 : Thin
+* 200 : Extra Light (Ultra Light)
+* 300 : Light
+* 400 : Regular
+* 500 : Medium
+* 600 : Semi Bold (Demi Bold)
+* 700 : Bold
+* 800 : Extra Bold (Ultra Bold)
+* 900 : Black (Heavy)
+*/
+
+@font-face {
+	font-family: 'NanumGothic';
+	font-style: normal;
+    font-weight: 400;
+	src:url(../font/NanumGothic400.eot);
+	src:local(※),
+		url(../font/NanumGothic400d41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/NanumGothic400.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'NanumGothic';
+	font-style: normal;
+    font-weight: 700;
+	src:url(../font/NanumGothic700.eot);
+	src:local(※),
+		url(../font/NanumGothic700d41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/NanumGothic700.woff) format('woff');
+}
+@font-face {
+	font-family: 'SECGCL';
+	font-style: normal;
+    font-weight: 500;
+	src:url(../font/SECGCL.eot);
+	src:local(※),
+		url(../font/SECGCLd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/SECGCL.woff) format('woff');
+}
+@font-face {
+	font-family: 'SECGCUL';
+	font-style: normal;
+    font-weight: 500;
+	src:url(../font/SECGCUL.eot);
+	src:local(※),
+		url(../font/SECGCULd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/SECGCUL.woff) format('woff');
+}
+@font-face {
+	font-family: 'SECGCB';
+	font-style: normal;
+    font-weight: 500;
+	src:url(../font/SECGCB.eot);
+	src:local(※),
+		url(../font/SECGCBd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/SECGCB.woff) format('woff');
+}
+@font-face {
+	font-family: 'SamsungGothicL';
+	font-style: normal;
+    font-weight: 300;
+	src:url(../font/SamsungGothicL.eot);
+	src:local(※),
+		url(../font/SamsungGothicLd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/SamsungGothicL.woff) format('woff');
+}
+@font-face {
+	font-family: 'SamsungGothicR';
+	font-style: normal;
+    font-weight: 400;
+	src:url(../font/SamsungGothicR.eot);
+	src:local(※),
+		url(../font/SamsungGothicRd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/SamsungGothicR.woff) format('woff');
+}
+@font-face {
+	font-family: 'SamsungGothicM';
+	font-style: normal;
+    font-weight: 500;
+	src:url(../font/SamsungGothicM.eot);
+	src:local(※),
+		url(../font/SamsungGothicMd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/SamsungGothicM.woff) format('woff');
+}
+@font-face {
+	font-family: 'FuturaB';
+	font-style: normal;
+    font-weight: 800;
+	src:url(../font/FuturaB.eot);
+	src:local(※),
+		url(../font/FuturaBd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/FuturaB.woff) format('woff');
+}
+@font-face {
+	font-family: 'FuturaM';
+	font-style: normal;
+    font-weight: 500;
+	src:url(../font/FuturaM.eot);
+	src:local(※),
+		url(../font/FuturaMd41d.eot?#iefix) format('embedded-opentype'),
+		url(../font/FuturaM.woff) format('woff');
+}
+
+
